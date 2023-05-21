@@ -6,4 +6,4 @@
 - `git clone https://github.com/OusmaneB20/AnonFiles`
 - `cd AnonFiles`
 - `python3 -m pip install --upgrade colorama requests argparse`
-- `python3 anonfiles.py`
+- `python3 anonfiles.py -h`
